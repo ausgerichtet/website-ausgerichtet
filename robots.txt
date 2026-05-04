@@ -1,3 +1,3 @@
-# TODO: remove Disallow when CNAME is configured
 User-agent: *
-Disallow: /
+Allow: /
+Sitemap: https://ausgerichtet.ch/sitemap.xml
